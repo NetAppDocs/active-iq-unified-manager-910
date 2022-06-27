@@ -40,4 +40,4 @@ The system performs the following tasks:
  ** GUID of the volume where the network drive is mounted
  ** iSCSI initiator used to communicate with ONTAP
 
-. Exit the maintenance console and launch the Active IQ Unified Manager interface to create the Snapshot copy schedule if you have not already done this.
+. Exit the maintenance console and launch the Active IQ Unified Manager interface to create a schedule for the Snapshot copy if you have not already done this.
