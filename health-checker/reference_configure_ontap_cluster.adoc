@@ -1,8 +1,8 @@
 ---
 permalink: health-checker/reference_configure_ontap_cluster.html
 sidebar: sidebar
-keywords: netapp, snapshot, backup, windows, configure, ontap, cluster
-summary: "Before configuring Active IQ Unified Manager for Snapshot backup and restore for Windows, you should perform few pre-configurations for ONTAP and Windows host machine."
+keywords: netapp, snapshot, backup, windows, configure, ontap, cluster, snapshot copy, copies
+summary: "You need to perform few pre-configuration steps on ONTAP clusters before you can back up and restore Active IQ Unified Manager using Snapshot copy on Windows systems."
 ---
 = Configuring ONTAP cluster
 :icons: font

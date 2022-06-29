@@ -1,7 +1,7 @@
 ---
 permalink: health-checker/task_create_volume_where_backups_are_stored.html
 sidebar: sidebar
-keywords: configure, snapshot, backup location
+keywords: configure, snapshot, backup location, copy, copies
 summary: "You can configure the volume where Snapshot copies will be stored on one of your ONTAP clusters using ONTAP System Manager or using the ONTAP CLI."
 ---
 = Configuring Snapshot copy location
