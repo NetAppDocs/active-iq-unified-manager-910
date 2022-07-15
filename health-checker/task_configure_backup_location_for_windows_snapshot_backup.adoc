@@ -9,7 +9,7 @@ summary: "You should configure the volume for Snapshot copies to be stored even 
 :imagesdir: ../media/
 
 [.lead]
-You should configure the volume for storing Snapshot copies for backing up Unified Manager on Windows.
+You should configure the volume for storing Snapshot copies after backing up Unified Manager on Windows.
 
 *What you'll need*
 
