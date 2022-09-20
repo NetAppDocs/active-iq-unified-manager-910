@@ -22,7 +22,7 @@ a|
 Any
 a|
 VMware snapshot of the Unified Manager virtual appliance
-a|
+.2+|
 Red Hat Enterprise Linux or CentOS Linux
 a|
 Small
@@ -30,18 +30,15 @@ a|
 Unified Manager MySQL database dump
 a|
 
-a|
 Large
 a|
 NetApp Snapshot of Unified Manager database
-a|
+.2+|
 Microsoft Windows
 a|
 Small
 a|
 Unified Manager MySQL database dump
-a|
-
 a|
 Large
 a|
